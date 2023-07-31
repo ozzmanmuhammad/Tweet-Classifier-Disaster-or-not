@@ -69,7 +69,9 @@ RNN's based models were overfitting. Please check the code file to understant th
 <img src="https://github.com/ozzmanmuhammad/ozzmanmuhammad.github.io/blob/main/assets/images/project/tweet_classifier_metrics.jpg" alt="f1score" width="700"/>
 
 #### Models sorted according to their f1-score:
-<img src="https://github.com/ozzmanmuhammad/ozzmanmuhammad.github.io/blob/main/assets/images/project/tweet_classifier_f1.jpg" alt="f1score" width="700"/>
+![tweet_classifier_f1](https://github.com/ozzmanmuhammad/Tweet-Classifier-Disaster-or-not/assets/93766242/e028e066-6fbd-4225-9284-0106a4c900f3)
+
+
 
 
 ## Predictions & Analysis
